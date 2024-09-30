@@ -6,7 +6,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de 
 
 ##  Atualmente Estou Aprendendo
 
-- **Backend:** kotlin , cursando faculdade de ciencia da computação
+- **Backend:** kotlin , mongoDB, e UI E UX com Figma ,cursando faculdade de ciencia da computação
 
 
 
@@ -20,6 +20,39 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de 
 
 - Email: lusbelk@gmail.com
 
+
+###
+
+<h1 align="center">Nice to meet you, this is my Profile!</h1>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kauanlusbel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+ 
+</div>
+
+###
+
+<a href="https://(https://www.linkedin.com/in/kauan-lusbel-8b8a901b5/)/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+</a>
+
+
+<p align="left"></p>
+
+###
 ---
 
 
