@@ -45,13 +45,6 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de 
 
 ###
 
-<a href="https://(https://www.linkedin.com/in/kauan-lusbel-8b8a901b5/)/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-</a>
-
-
-<p align="left"></p>
-
 ###
 ---
 
