@@ -16,7 +16,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de 
 
 ## 📫 Como me encontrar
 
-- [LinkedIn](https://www.linkedin.com/in/kauanlusbel)
+- [LinkedIn](https://www.linkedin.com/in/kauan-lusbel-8b8a901b5/)
 
 - Email: lusbelk@gmail.com
 
